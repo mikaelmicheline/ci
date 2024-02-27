@@ -1,4 +1,4 @@
-import sum from './sum'
+import add from './add'
 
 console.log('app is running')
-console.log(`8 + 9 = ${sum(8, 9)}`)
+console.log(`8 + 9 = ${add(8, 9)}`)
